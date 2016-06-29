@@ -1,0 +1,4 @@
+c:\users\hp pc\documents\visual studio 2010\Projects\NLPHomework3\NLPHomework3\bin\Debug\NLPHomework3.exe
+c:\users\hp pc\documents\visual studio 2010\Projects\NLPHomework3\NLPHomework3\bin\Debug\NLPHomework3.pdb
+c:\users\hp pc\documents\visual studio 2010\Projects\NLPHomework3\NLPHomework3\obj\x86\Debug\NLPHomework3.exe
+c:\users\hp pc\documents\visual studio 2010\Projects\NLPHomework3\NLPHomework3\obj\x86\Debug\NLPHomework3.pdb
